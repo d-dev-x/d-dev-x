@@ -7,7 +7,7 @@
 ## 📌 About Me
 I'm a first-year Computer Science student at the University of South Wales.  
 I'm passionate about technology, mobile phones, and building software step by step as I learn.  
-My long-term goal is to become an App Developer.
+My long-term goal is to become an Cyber Security Expert.
 
 ---
 
