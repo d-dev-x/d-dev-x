@@ -52,7 +52,7 @@
 
   <br/>
   </div>
-
+<div align="center" style="max-width: 900px; margin: 0 auto;">
   <!-- Current Project -->
   <h2>🚧 Currently Working On</h2>
   <p style="color:#ddd;">
