@@ -1,58 +1,118 @@
-# 👋 Hey, I'm Debananda Das Dev
-### BSc (Hons) Computer Science | University of South Wales  
-### Aspiring Cyber Security Expert
+ <div align="center" style="max-width: 900px; margin: 0 auto;">
 
----
+  <!-- Header -->
+  <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
+    Hi 👋, I'm <span style="color:#2563EB;">Debananda Das Dev</span>
+  </h1>
 
-## 📌 About Me
-I'm a first-year Computer Science student at the University of South Wales.  
-I'm passionate about technology, mobile phones, and building software step by step as I learn.  
-My long-term goal is to become an Cyber Security Expert.
+<p>
+    <strong><code>Computer Science Student & Aspiring Cyber Security Specialist</code></strong>
+  </p>
 
----
+  <p style="font-size: 0.95rem; color: #aaa;">
+    🌍 From <strong>Bangladesh</strong> • Studying in <strong>Wales, United Kingdom</strong>
+  </p>
 
-## 📚 What I Am Doing Right Now
-- Learning the basics of Programming using C++  
-- Understanding input/output, variables, loops, functions  
-- Practising Git and GitHub for version control  
-- Exploring web technologies (HTML, CSS)  
-- Building small programs to improve my logic  
+  <a href="https://www.linkedin.com/in/d-dev-das/">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
 
----
+</div>
+  <hr style="margin: 1.5rem 0;"/>
 
-## 🛠 Skills (Developing)
-**Languages:**  
-- C++ (Beginner)  
-- Python (Learning basics)  
-- HTML & CSS (Basic)
+  <!-- About -->
+  <p style="max-width: 700px; margin: 0 auto; line-height: 1.6; color:#ddd;">
+    I'm currently building my foundation in <strong>Computer Science</strong> while exploring
+    <strong>cryptography</strong> and secure coding practices.  
+    I enjoy turning simple ideas into clean, reusable security-focused learning projects.
+  </p>
 
-**Tools:**  
-- Git  
-- GitHub  
-- VS Code  
-- Windows & Linux basics  
+  <br/>
 
----
+  <!-- Tech Stack -->
+<h2>🛠️ Tech Stack & Tools</h2>
 
-## 🚀 Projects I’ve Completed So Far
-*(Beginner-friendly but real — clean and honest)*  
-- 🔢 **Basic Calculator (C++)**  
-- 🎮 **Number Guessing Game (C++)**  
-- 🧮 **Simple Math/Logic Exercises in C++**  
-- 🌐 **Basic Webpage using HTML/CSS** *(learning stage)*  
+<div align="center" style="max-width: 900px; margin: 0 auto;">
+<p>
+  <!-- Languages -->
+  <a><img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+  </a>
+  </p>
+    <br>
+<p>
+  <!-- Tools -->
+   <a><img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
+    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/>
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
+  </a>
+  </p>
 
-*(As I learn more, I’ll add more projects here throughout the course.)*  
+  <br/>
+  </div>
 
----
+  <!-- Current Project -->
+  <h2>🚧 Currently Working On</h2>
+  <p style="color:#ddd;">
+    <strong>CipherLock</strong> – a beginner-friendly <strong>text encryption & decryption tool</strong>  
+    based on classic ciphers, inspired by my first university encryption assessment.
+  </p>
 
-## 🎮 Hobbies
-- Badminton 🏸  
-- Gaming 🎮  
-- Tech & mobile phones 📱  
-- Music & movies 🎧  
+  <br/>
 
----
+  <!-- Currently Learning -->
+  <h2>🌱 Currently Learning</h2>
 
-## 📈 GitHub Stats
-![Dev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+<div style="max-width: 500px; margin: 0 auto; text-align: left; color: #ddd;">
 
+<p>🔐 Cryptography fundamentals</p>
+<p>💻 C++ core concepts & problem solving</p>
+<p>🐧 Linux basics & command line</p>
+<p>📁 Version control with Git & GitHub</p>
+<p>🛡️ Secure coding practices</p>
+</div>
+
+
+  <br/>
+
+  <!-- Ask Me About -->
+ <h2>💬 Ask Me About</h2>
+
+<div style="max-width: 500px; margin: 0 auto; text-align: left; color: #ddd;">
+
+<p>🟠 Cryptography basics & simple ciphers</p>
+<p>🟠 C++ (beginner to intermediate)</p>
+<p>🟠 HTML & CSS fundamentals</p>
+<p>🟠 Getting started with cyber security as a student</p>
+
+</div>
+
+  <br/>
+
+  <!-- Contact -->
+  <h2>📫 Contact</h2>
+  <p style="color:#aaa;">Email: <strong>Coming soon...</strong></p>
+
+  <br/>
+
+  <!-- Portfolio -->
+  <h2>📄 Portfolio & CV</h2>
+  <p style="color:#aaa;">Currently preparing — coming soon...</p>
+
+  <br/>
+
+  <!-- GitHub Stats -->
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=d-dev-x&show_icons=true&theme=transparent" style="max-width:100%;" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-dev-x&layout=compact&theme=transparent" style="max-width:100%;" />
+
+  <br/><br/>
+
+  <!-- Fun Fact -->
+  <h2>⚡ Fun Fact</h2>
+  <p style="color:#ddd;">I learn cyber security the way everyone secretly does — by breaking my own code first. 😄</p>
+
+</div>
