@@ -1,10 +1,11 @@
+<p style="font-family:century">This is a paragraph.</p>
+<p style="font-family:'Courier New'">This is another paragraph.</p>
+
  <div align="center" style="max-width: 900px; margin: 0 auto; color:#000000">
 
-  <!-- Header -->
   <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
     Hi 👋, I'm <span style="color:#2563EB;">Debananda Das Dev</span>
   </h1>
-
 <p>
     <strong><code>Computer Science Student & Aspiring Cyber Security Specialist</code></strong>
   </p>
@@ -20,7 +21,6 @@
 </div>
   <hr style="margin: 1.5rem 0;"/>
 
-  <!-- About -->
   <p style="max-width: 700px; margin: 0 auto; line-height: 1.6; color:#ddd;">
     I'm currently building my foundation in <strong>Computer Science</strong> while exploring
     <strong>cryptography</strong> and secure coding practices.  
