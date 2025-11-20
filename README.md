@@ -1,4 +1,4 @@
- <div align="center" style="max-width: 900px; margin: 0 auto;">
+ <div align="center" style="max-width: 900px; margin: 0 auto; color:#000000">
 
   <!-- Header -->
   <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
