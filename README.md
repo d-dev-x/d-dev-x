@@ -9,7 +9,7 @@
     <strong><code>Computer Science Student & Aspiring Cyber Security Specialist</code></strong>
   </p>
 
-  <p style="font-size: 0.95rem; color: #aaa;">
+  <p style="font-size: 0.95rem; color: #000000;">
     🌍 From <strong>Bangladesh</strong> • Studying in <strong>Wales, United Kingdom</strong>
   </p>
 
