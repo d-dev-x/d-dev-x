@@ -1,6 +1,3 @@
-<p style="font-family:century">This is a paragraph.</p>
-<p style="font-family:'Courier New'">This is another paragraph.</p>
-
  <div align="center" style="max-width: 900px; margin: 0 auto; color:#000000">
 
   <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
