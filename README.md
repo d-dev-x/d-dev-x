@@ -1,4 +1,4 @@
- <div align="center" style="max-width: 900px; margin: 0 auto; colour:#000000">
+<div align="center" style="max-width: 900px; margin: 0 auto; color:#ddd; background:#0e0e0e; padding:30px; border-radius:10px;">
 
   <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
     Hi 👋, I'm <span style="color:#2563EB;">Debananda Das Dev</span>
