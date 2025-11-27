@@ -73,6 +73,22 @@
 
 <br>
 
+<br><br>
+<h2 align="center">📁 Previous Works</h2>
+<div style="max-width:900px; margin:auto; text-align:center; line-height:1.55;">
+<p><strong>Monthly Income:</strong> Calculates annual salary → tax → NI → final take-home. Helped practice arithmetic logic and real-world financial computation. :contentReference[oaicite:0]{index=0}</p>
+<p><strong>Height in Meters:</strong> Converts height from feet/inches into meters using precise floating-point output. Built confidence in unit conversion & formatting. :contentReference[oaicite:1]{index=1}</p>
+<p><strong>Annual High Temperatures:</strong> Stores 12 monthly temperatures & calculates average, highest and lowest. Strengthened array traversal and statistical summary logic. :contentReference[oaicite:2]{index=2}</p>
+<p><strong>How Much Paint:</strong> Determines paint required for wall coverage based on area input & coverage rate. Reinforced formula-based coding & user input. :contentReference[oaicite:3]{index=3}</p>
+<p><strong>Burger Stall:</strong> Calculates revenue from burger sales with quantity × price logic. Introduced structured sales calculation and formatted UI output. :contentReference[oaicite:4]{index=4}</p>
+<p><strong>Project Hours:</strong> Divides total project time across tasks to estimate duration needed per module. Developed time allocation & scheduling logic. :contentReference[oaicite:5]{index=5}</p>
+<p><strong>House Budget:</strong> User enters spending categories → program outputs monthly + yearly financial report. Built data grouping & total cost calculation. :contentReference[oaicite:6]{index=6}</p>
+<p><strong>Coin Toss:</strong> Simulates repeated coin flips and counts heads/tails. Taught randomness, loops and probability modelling. :contentReference[oaicite:7]{index=7}</p>
+<p><strong>Area of Triangle:</strong> Computes area using base × height ÷ 2. A mathematical accuracy exercise using input validation. :contentReference[oaicite:8]{index=8}</p>
+<p><strong>Rainfall:</strong> Stores rainfall per month, outputs total, average & extremes. Deepened statistical processing in arrays. :contentReference[oaicite:9]{index=9}</p>
+<p><strong>Distance Travelled:</strong> Shows cumulative distance covered hourly at constant speed. Reinforced multiplication loops & incremental logic. :contentReference[oaicite:10]{index=10}</p>
+</div>
+
 <!--================ LEARNING ==================-->
 
 <h2>🌱 Currently Learning</h2>
