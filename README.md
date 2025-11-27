@@ -1,128 +1,110 @@
-<div align="center" style="max-width: 900px; margin: 0 auto; color:#ddd; background:#0e0e0e; padding:30px; border-radius:10px;">
+<div style="background:#0d1117; color:#e6e6e6; padding:45px; border-radius:12px; line-height:1.55;">
 
-  <h1 style="font-size: 2.8rem; margin-bottom: 0.2rem;">
-    Hi 👋, I'm <span style="color:#2563EB;">Debananda Das Dev</span>
-  </h1>
-<p>
-    <strong><code>Computer Science Student & Aspiring Cyber Security Specialist</code></strong>
-  </p>
+<div align="center" style="max-width:900px; margin:auto;">
 
-  <p style="font-size: 0.95rem; color: #000000;">
+  <h1 style="font-size:2.8rem;">Hi 👋, I'm <span style="color:#3ba4ff;">Debananda Das Dev</span></h1>
+
+  <p><strong><code>Computer Science Student & Aspiring Cyber Security Specialist</code></strong></p>
+
+  <p style="font-size:1rem;">
     🌍 From <strong>Bangladesh</strong> • Studying in <strong>Wales, United Kingdom</strong>
   </p>
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/d-dev-das/">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="45"/>
   </a>
 
 </div>
-  <hr style="margin: 1.5rem 0;"/>
-  <p style="max-width: 700px; margin: 0 auto; line-height: 1.6; color:#ddd;">
-    I'm currently building my foundation in <strong>Computer Science</strong> while exploring
-    <strong>cryptography</strong> and secure coding practices.  
-    I enjoy turning simple ideas into clean, reusable security-focused learning projects.
-  </p>
 
-  <br/>
+<hr style="margin:30px 0; opacity:0.3;"/>
 
-  <!-- Tech Stack -->
-<h2>🛠️ Tech Stack & Tools</h2>
+<p align="center" style="max-width:750px; margin:auto;">
+I'm currently building my foundation in <strong>Computer Science</strong> while exploring <strong>cryptography</strong> and 
+secure coding practices. I enjoy turning simple ideas into clean, reusable, learning-focused security tools.
+</p>
 
-<div align="center" style="max-width: 900px; margin: 0 auto;">
+<br>
+
+<h2>🛠 Tech Stack & Tools</h2>
+<div align="center" style="margin-bottom:20px;">
+
 <p>
-  <!-- Languages -->
-  <a><img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-    <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
-  </a>
-  </p>
-    <br>
+ <img src="https://skillicons.dev/icons?i=html,css,cpp" height="45"/>
+</p>
+
 <p>
-  <!-- Tools -->
-   <a><img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-    <img src="https://skillicons.dev/icons?i=github" alt="github"/>
-    <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio"/>
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>
-  </a>
-  </p>
+ <img src="https://skillicons.dev/icons?i=git,github,visualstudio,linux" height="45"/>
+</p>
+</div>
 
-  <br/>
-  </div>
-<div align="center" style="max-width: 900px; margin: 0 auto;">
-  <!-- Current Project -->
-  <h2>🚧 Currently Working On</h2>
-  <p style="color:#ddd;">
-    <strong>CipherLock</strong> – a beginner-friendly <strong>text encryption & decryption tool</strong>  
-    based on classic ciphers, inspired by my first university encryption assessment.
-   Certain projects by University that I am currently working on are-
- <p><strong>Weight Conversion Table:</strong> A program that generates a kilogram-to-pound conversion chart using iteration and formatted calculations.</p>
-<p><strong>Average Speed:</strong> Calculates travel speed between multiple distances using time and distance input, reinforcing mathematical computation.</p>
-<p><strong>Winning Division:</strong> Compares quarterly sales of four divisions and identifies the highest performer using conditional logic.</p>
-<p><strong>Time:</strong> A Time24 class that handles hours, minutes and seconds, with greeting messages based on time range and proper formatting.</p>
-<p><strong>Isosceles Triangle Class:</strong> Outputs a visual isosceles triangle based on user-defined height and width using nested loop printing.</p>
-<p><strong>Student Performance Class:</strong> Calculates academic and extracurricular percentages, combines results and assigns a grade using OOP.</p>
-<p><strong>Movie Data & Movie Profit:</strong> Stores movie details and computes total profit from revenue and production cost through struct-based design.</p>
-<p><strong>Stadium Data:</strong> Handles stadium records including capacity, sales and earnings, producing structured financial output.</p>
-<p><strong>Grade Analysis:</strong> Reads a list of student scores, categorises them into grade bands, and outputs a formatted grade summary.</p>
-<p><strong>Index of Smallest Number:</strong> Takes a list of values and returns the index of the smallest element using comparison logic.</p>
-<p><strong>Identical Arrays:</strong> Compares two arrays and checks if all elements match in order, strengthening logical equality testing.</p>
-<p><strong>Chips and Salsa:</strong> Tracks salsa product sales, calculates total jars sold and determines best vs worst selling items.</p>
-<p><strong>Lo Shu Magic Square:</strong> Validates a 3×3 grid by checking whether row and column sums
-  </p>
+<br>
 
-  <br/>
+<h2>🚧 Currently Working On</h2>
 
-  <!-- Currently Learning -->
-  <h2>🌱 Currently Learning</h2>
+<p><strong>CipherLock:</strong> A beginner-friendly text encryption & decryption tool based on classic ciphers, inspired by my first university encryption assessment.</p>
+<p><strong>Weight Conversion Table:</strong> Generates kg → pound conversion results using iteration and formatted output.</p>
+<p><strong>Average Speed:</strong> Calculates total travel speed using distance/time inputs.</p>
+<p><strong>Winning Division:</strong> Compares quarterly sales from four divisions & outputs the winner.</p>
+<p><strong>Time:</strong> Builds a 24hr Time class with hour/min/sec + greeting logic.</p>
+<p><strong>Isosceles Triangle Class:</strong> Prints a console triangle based on user height & width.</p>
+<p><strong>Student Performance Class:</strong> Calculates academic + extracurricular score → final grade.</p>
+<p><strong>Movie Data & Movie Profit:</strong> Stores film info & calculates profit from earnings vs cost.</p>
+<p><strong>Stadium Data:</strong> Handles capacity, sales & income, outputs structured stadium data.</p>
+<p><strong>Grade Analysis:</strong> Categorises student score ranges into grade bands.</p>
+<p><strong>Index of Smallest Number:</strong> Returns index position of minimum array value.</p>
+<p><strong>Identical Arrays:</strong> Checks if two arrays match completely in sequence.</p>
+<p><strong>Chips and Salsa:</strong> Tracks salsa jar sales → highest & lowest selling flavour.</p>
+<p><strong>Lo Shu Magic Square:</strong> Validates if a 3×3 matrix meets magic-sum rules.</p>
+<p><strong>Baseball Champions:</strong> Reads winner history from file and outputs yearly champions.</p>
+<p><strong>Number of Occurrences:</strong> Counts number frequency inside an integer list.</p>
+<p><strong>Lottery Winners:</strong> Matches user-entered numbers to draw results.</p>
+<p><strong>Insertion in Earthquake Records:</strong> Inserts new earthquake data into sorted structure.</p>
+<p><strong>Test Scores #1:</strong> Calculates average score from input data.</p>
+<p><strong>Test Scores #2:</strong> Extends previous project with grade classification.</p>
+<p><strong>Box of Balls:</strong> Creates box-pattern output using loop logic.</p>
 
-<div style="max-width: 500px; margin: 0 auto; text-align: left; color: #ddd;">
+<br>
 
+<h2>🌱 Currently Learning</h2>
+<div style="max-width:550px; margin:auto;">
 <p>🔐 Cryptography fundamentals</p>
-<p>💻 C++ core concepts & problem solving</p>
-<p>🐧 Linux basics & command line</p>
-<p>📁 Version control with Git & GitHub</p>
-<p>🛡️ Secure coding practices</p>
+<p>💻 C++ problem solving & OOP design</p>
+<p>🐧 Linux CLI & OS basics</p>
+<p>📁 Git + GitHub workflow</p>
+<p>🛡 Secure coding practices</p>
 </div>
 
+<br>
 
-  <br/>
-
-  <!-- Ask Me About -->
- <h2>💬 Ask Me About</h2>
-
-<div style="max-width: 500px; margin: 0 auto; text-align: left; color: #ddd;">
-
-<p>🟠 Cryptography basics & simple ciphers</p>
-<p>🟠 C++ (beginner to intermediate)</p>
+<h2>💬 Ask Me About</h2>
+<div style="max-width:550px; margin:auto;">
+<p>🟠 Cryptography basics & classic ciphers</p>
+<p>🟠 C++ (beginner → intermediate)</p>
 <p>🟠 HTML & CSS fundamentals</p>
-<p>🟠 Getting started with cyber security as a student</p>
-
+<p>🟠 Getting started in cyber security as a student</p>
 </div>
 
-  <br/>
+<br>
 
-  <!-- Contact -->
-  <h2>📫 Contact</h2>
-  <p style="color:#aaa;">Email: <strong> debanandadasdev@gmail.com</strong></p>
+<h2>📫 Contact</h2>
+<p>Email: <strong>debanandadasdev@gmail.com</strong></p>
 
-  <br/>
+<br>
 
-  <!-- Portfolio -->
-  <h2>📄 Portfolio & CV</h2>
-  <p style="color:#aaa;">Currently preparing — coming soon...</p>
+<h2>📄 Portfolio & CV</h2>
+<p>⏳ Coming soon...</p>
 
-  <br/>
+<br>
 
-  <!-- GitHub Stats -->
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=d-dev-x&show_icons=true&theme=transparent" style="max-width:100%;" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-dev-x&layout=compact&theme=transparent" style="max-width:100%;" />
+<h2>📊 GitHub Stats</h2>
+<img src="https://github-readme-stats.vercel.app/api?username=d-dev-x&show_icons=true&theme=transparent" width="55%"/>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-dev-x&layout=compact&theme=transparent" width="55%"/>
 
-  <br/><br/>
+<br><br>
 
-  <!-- Fun Fact -->
-  <h2>⚡ Fun Fact</h2>
-  <p style="color:#ddd;">I learn cyber security the way everyone secretly does — by breaking my own code first. 😄</p>
+<h2>⚡ Fun Fact</h2>
+<p>I learn cyber security the way every dev does — by breaking my own code first 😄</p>
 
 </div>
