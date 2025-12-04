@@ -64,6 +64,7 @@
 <p><strong>Rainfall:</strong> Stores rainfall per month, outputs total, average & extremes. Deepened statistical processing in arrays.</p>
 <p><strong>Distance Travelled:</strong> Shows cumulative distance covered hourly at constant speed. Reinforced multiplication loops & incremental logic.</p>
 </div>
+<br>
 <h2>🌱 Currently Learning</h2>
 <p>🔐 Cryptography fundamentals</p>
 <p>💻 C++ + OOP project building</p>
@@ -80,13 +81,6 @@
 <h2>📫 Contact</h2>
 <p>Email: <strong>debanandadasdev@gmail.com</strong></p>
 <br>
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=d-dev-x&show_icons=true&theme=transparent">
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d-dev-x&layout=compact&theme=transparent">
-</p>
-<br><br>
 <h2>⚡ Fun Fact</h2>
 <p>I learn cyber security the way real devs do — by breaking my own code first 😄</p>
 </div>
