@@ -82,5 +82,5 @@
 <p>Email: <strong>debanandadasdev@gmail.com</strong></p>
 <br>
 <h2>⚡ Fun Fact</h2>
-<p>I learn cyber security the way real devs do — by breaking my own code first 😄</p>
+<p>I learn cyber security the way real devs do, by breaking my own code first 😄</p>
 </div>
